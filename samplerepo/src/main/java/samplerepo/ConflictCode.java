@@ -7,15 +7,12 @@ public class ConflictCode {
 	    }
 	 
 	 public static void printArray() {
-<<<<<<< HEAD
 		 int [] arr = new int [] {11,22,33,55,77};  
 		 int sum=0;
 		 sum = 15;
-=======
 		 int [] arr = new int [] {5,6,7,8,9,1,2,3};  
 		 int sum=0;
 		 int [] arr = new int [] {1, 2, 3, 4, 5};  
->>>>>>> branch 'master' of https://github.com/gauravkardam3/samplerepo.git
 	        System.out.println("Elements of given array: ");  
 	        for (int i = 0; i < arr.length; i++) {  
 	            System.out.print(arr[i] + " ");  
